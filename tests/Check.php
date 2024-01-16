@@ -1,6 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
+#* Created by PhpStorm.
  * User: Sergey144010
  * Date: 27.04.2017
  * Time: 1:46
@@ -42,4 +42,4 @@ class Check
             throw new ImapClientException('incomingMessage->structure not installed.');
         };
     }
-}
+} 
